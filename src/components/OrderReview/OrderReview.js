@@ -9,7 +9,7 @@ const OrderReview = (props) => {
         <div className='customer_review'>
      
            <h3>Name: {reviewer_name}</h3> 
-           <p>Comment:{content}</p> 
+           <p>Comment: {content}</p> 
            <p>Rating: <Rate disabled defaultValue={rating}/></p>
            
         </div>

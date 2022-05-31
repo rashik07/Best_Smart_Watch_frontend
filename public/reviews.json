@@ -17,29 +17,29 @@
     {
       "_id": "623853b21fb149d2ee7b76c7",
       "index": 2,
-      "rating": 4,
+      "rating": 2,
       "reviewer_name": "Sadik",
-      "content": "Just Chill"
+      "content": "amar valo lageni"
     },
     {
       "_id": "623853b2e91c8de578c9245e",
       "index": 3,
-      "rating": 4,
-      "reviewer_name": "Just Chill",
-      "content": "Just Chill"
+      "rating": 5,
+      "reviewer_name": "Akash",
+      "content": "Joss product"
     },
     {
       "_id": "623853b2239582e48409ccc6",
       "index": 4,
-      "rating": 4,
-      "reviewer_name": "Just Chill",
-      "content": "Just Chill"
+      "rating": 3,
+      "reviewer_name": "Rahim",
+      "content": "Good but packaging is not so well"
     },
     {
       "_id": "623853b2cdda0d5bc294f791",
       "index": 5,
-      "rating": 4,
-      "reviewer_name": "Just Chill",
-      "content": "Just Chill"
+      "rating": 5,
+      "reviewer_name": "Sharmin",
+      "content": "I love this watch"
     }
   ]
