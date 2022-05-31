@@ -9,7 +9,7 @@ const Header = () => {
             <nav style={{marginTop:"20px"}}>
                 <Link to="/home">HOME</Link>
                 <Link to="reviewPage">REVIEWS</Link>
-                <Link to="orderReview">DASHBOARD</Link>
+                <Link to="dashboard">DASHBOARD</Link>
                 <Link to="orderReview">BLOGS</Link>
                 <Link to="orderReview">ABOUT</Link>
             </nav>
