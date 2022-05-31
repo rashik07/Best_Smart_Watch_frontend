@@ -3,8 +3,6 @@ import React from 'react';
 import './App.css';
 import Home from './components/Home/Home';
 import Header from './components/Header/Header';
-
-import OrderReview from './components/OrderReview/OrderReview';
 import ReviewPage from './components/ReviewsPage/ReviewPage';
 import Error404 from './components/Error404/Error404';
 import Dashboard from './components/Dashboard/Dashboard';
