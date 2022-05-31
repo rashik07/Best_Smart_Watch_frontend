@@ -1,9 +1,8 @@
-.home-container{
+/* .home-container{
     display: grid;
     grid-template-columns: 3fr 1fr;
-  
-    /* background-color: antiquewhite; */
-}
+
+} */
 
 .review_container{
     display: grid;
