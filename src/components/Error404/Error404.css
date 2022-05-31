@@ -1,0 +1,21 @@
+.container {
+    background-color: #d9d9d9;
+
+}
+
+.container  h1 {
+    color: #8c8c8c;
+    text-align: center;
+    font-size: 5.5em;
+    text-shadow: 3px 3px #808080
+}
+
+.container p {
+    text-align: center;
+    font-size: 2.5em;
+    color: #737373
+}
+                
+.container  h2{
+  font-size: 1em;
+ }

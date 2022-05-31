@@ -17,10 +17,9 @@ function App() {
         <Route path='/reviewPage' element={<ReviewPage></ReviewPage>}></Route>
         <Route path='/dashboard' element={<Dashboard></Dashboard>}></Route>
         <Route path="*" element={<Error404></Error404>}>
-       
-          </Route>
+        </Route>
       </Routes>
-    
+
     </div>
   );
 }
